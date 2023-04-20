@@ -1,0 +1,41 @@
+.message-container{
+    position:fixed;
+    top:10px;
+    display:flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.dialog {  
+    display:flex;
+    gap: 1rem;
+    width: 300px;
+
+    
+    padding: 0.5rem 1rem;
+
+
+    border: 1px solid;
+    border-radius: 3px;
+
+}
+
+.success {
+    background: rgba(172, 255, 47, 0.208);
+    color: rgb(44, 65, 44);
+    border-color: green;
+    margin-top:50px;
+
+}
+
+.error {
+    background: rgb(207, 115, 115);
+    color: rebeccapurple;
+    border-color: blueviolet;
+    margin-top:50px;
+}
+
+.dialog svg{
+    position:relative;
+    top: 2px;
+}

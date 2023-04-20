@@ -1,0 +1,14 @@
+.error-message,
+.has-error label{
+    color: rgb(207, 115, 115);
+}
+
+.has-error input {
+    border: 1px solid rgb(207, 115, 115); 
+    border-radius: 2px;
+}
+
+p{
+    display:flex;
+    justify-content: center;
+}
