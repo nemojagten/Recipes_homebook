@@ -10,7 +10,7 @@
     {
       "email": "a@a.com",
       "password": "$2a$10$iPhJmIfmZ9xb5V9cFVpXG.M1T/Ld2QWfXBHcn4FQwKOIv0xzn8K0W",
-      "fName": "Louis",
+      "fName": "Bjarkson",
       "lName": "Perrier",
       "id": 2
     },
@@ -69,6 +69,27 @@
       "fName": "asdsf",
       "lName": "sdfds",
       "id": 10
+    },
+    {
+      "email": "d@s.com",
+      "password": "$2a$10$oAgdQsc9MwYgu9mg5Ozabe40AnuFZmLsNiDQK8hw7AteR7V.RDAfO",
+      "fName": "John",
+      "lName": "Wayne",
+      "id": 11
+    },
+    {
+      "email": "p@a.com",
+      "password": "$2a$10$vTgMW3RpFzcqGCMeK4v4RepCK9xrXz1jwsPdNjIug/DCLAgC9OZdy",
+      "fName": "Fred",
+      "lName": "Flinstone",
+      "id": 12
+    },
+    {
+      "email": "d@e.com",
+      "password": "$2a$10$fyQpWc9PARn91T9.PijNn.PV8kzv4bo3EwuxJKwpTwyZo5N1YIfty",
+      "fName": "Pablo ",
+      "lName": "Escobar",
+      "id": 13
     }
   ],
   "recipes": [
@@ -277,6 +298,45 @@
       "cuisine": "Italian",
       "userId": 1,
       "id": 28
+    },
+    {
+      "name": "Lasagna",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2017/07/meat-lasagna-1200.jpg",
+      "numberOfDishes": "2",
+      "ingredients": "foi de paste, sos de rosii, carne tocata, ceapa",
+      "steps": "se caleste ceapa,...",
+      "difficulty": [
+        "Easy"
+      ],
+      "cuisine": "Italian",
+      "userId": 2,
+      "id": 29
+    },
+    {
+      "name": "Soup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg",
+      "numberOfDishes": "4",
+      "ingredients": "asdfads",
+      "steps": "adsfgads",
+      "difficulty": [
+        "Medium"
+      ],
+      "cuisine": "French",
+      "userId": 13,
+      "id": 30
+    },
+    {
+      "name": "cIORBA",
+      "image": "asdfa",
+      "numberOfDishes": "4",
+      "ingredients": "asdfa",
+      "steps": "asdfasd",
+      "difficulty": [
+        "Medium"
+      ],
+      "cuisine": "Romanian",
+      "userId": 13,
+      "id": 31
     }
   ]
 }

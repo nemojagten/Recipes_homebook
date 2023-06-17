@@ -1,5 +1,5 @@
 import { NavLink, useLocation } from "react-router-dom";
-import styles from "./Nav.module.css";
+import styles from "./nav.module.css";
 import clsx from "clsx";
 import { useAuthContext } from "../../features/Auth/Auth.context";
 import { AddRecipe, RecipeList, EditRecipe } from "../../features";
